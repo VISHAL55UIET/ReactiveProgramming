@@ -15,7 +15,7 @@ Topics are implemented with clean code, proper project structure, and industry-s
 ##    Tech Stack
 
 - Java 21
-- Spring Boot 3.x
+- Spring Boot 3.5.5
 - Spring WebFlux
 - Project Reactor
 - Reactor Core
